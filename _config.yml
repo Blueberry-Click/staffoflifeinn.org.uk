@@ -1,7 +1,7 @@
 # site settings
 title: Staff of Life Inn
 subtitle: Todmorden
-email: timfritchley@btinternet.com
+email: hello@staffoflifeinn.org.uk # timfritchley@btinternet.com
 description: Fantastic homecooked, locally sourced food organic <br />where possible, serving real ales, Timothy Taylor
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
