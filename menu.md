@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Menu
+description: Grubs up!
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

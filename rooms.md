@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Rooms
+description: Sleep off a full belly.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
